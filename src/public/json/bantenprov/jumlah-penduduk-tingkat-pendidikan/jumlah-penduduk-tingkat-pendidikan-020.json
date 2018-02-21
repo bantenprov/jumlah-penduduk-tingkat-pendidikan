@@ -1,100 +1,620 @@
 [
   {
     "xAxis": {
-      "opd": "Angkatan Kerja",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) BELUM/TIDAK SEKOLAH",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          5.18,
-          5.18,
-          5.34,
-          5.33,
-          5.59
+          101699,
+          123068,
+          249443,
+          158349,
+          133523,
+          35750,
+          87197,
+          103663
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Angkatan Kerja",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) BELUM/TIDAK SEKOLAH",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          119.85,
-          120.17,
-          121.87,
-          122.38,
-          125.44         
+          96752,
+          117898,
+          237333,
+          153781,
+          126609,
+          34468,
+          81584,
+          97968
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Rasio penyerapan anggaran per OPD",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) BELUM TAMAT SD",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          4.66,
-          4.69,
-          4.86,
-          4.83,
-          5.09          
+          78958,
+          57350,
+          119819,
+          64368,
+          77941,
+          22682,
+          18529,
+          60944
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Rasio penyerapan anggaran per OPD",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) BELUM TAMAT SD",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          112.5,
-          112.76,
-          114.63,
-          114.82,
-          118.41         
+          78169,
+          55776,
+          121352,
+          62586,
+          76586,
+          22515,
+          17628,
+          60285
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) SD",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          235707,
+          274377,
+          297292,
+          252459,
+          79369,
+          31662,
+          90848,
+          61318
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) SD",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          241393,
+          285260,
+          346066,
+          263459,
+          112243,
+          38834,
+          92481,
+          82286
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) SLTP",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          91568,
+          89211,
+          233569,
+          129860,
+          112141,
+          31343,
+          39513,
+          71091
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) SLTP",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          80633,
+          73998,
+          228683,
+          122632,
+          125069,
+          32824,
+          40846,
+          76870
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) SLTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          81858,
+          70934,
+          380608,
+          112794,
+          345812,
+          69620,
+          67391,
+          226756
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) SLTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          58210,
+          47595,
+          294841,
+          82023,
+          293512,
+          53314,
+          55184,
+          204216
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) DII",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1640,
+          1664,
+          2927,
+          2262,
+          2744,
+          1257,
+          898,
+          2473
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) DII",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1922,
+          1619,
+          4025,
+          2645,
+          4624,
+          2063,
+          1952,
+          3537
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) DIII",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2016,
+          1845,
+          12392,
+          3078,
+          16859,
+          3054,
+          3182,
+          18281
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) DIII",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2426,
+          2432,
+          15263,
+          3412,
+          22314,
+          3846,
+          4331,
+          23506
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) S1",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11131,
+          10260,
+          39027,
+          10937,
+          60935,
+          10022,
+          14070,
+          73603
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) S1",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          9727,
+          7829,
+          32844,
+          9451,
+          53525,
+          9581,
+          12079,
+          64406
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) S2",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          893,
+          799,
+          2659,
+          599,
+          4802,
+          979,
+          1715,
+          7612
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) S2",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          329,
+          253,
+          1314,
+          247,
+          2430,
+          538,
+          765,
+          4362
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) S3",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          60,
+          58,
+          232,
+          37,
+          273,
+          51,
+          89,
+          756
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) S3",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          57,
+          32,
+          114,
+          24,
+          117,
+          23,
+          38,
+          271
         ]
       }
     ]
