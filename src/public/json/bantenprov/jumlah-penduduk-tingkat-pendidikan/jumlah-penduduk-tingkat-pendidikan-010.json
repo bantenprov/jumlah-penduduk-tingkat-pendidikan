@@ -1,210 +1,456 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": "Pandeglang",
+      "yyyy": "2017",
+      "index": "Pandeglang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09        
+          101699,
+          96752,
+          78958,
+          78169,
+          235707,
+          241393,
+          91568,
+          80633,
+          81858,
+          58210,
+          1640,
+          1922,
+          2016,
+          2426,
+          11131,
+          9727,
+          893,
+          329,
+          60,
+          57
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": "Lebak",
+      "yyyy": "2017",
+      "index": "Lebak-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          119.85,
-          112.5
+          123068,
+          117898,
+          57350,
+          55776,
+          274377,
+          285260,
+          89211,
+          73998,
+          70934,
+          47595,
+          1664,
+          1619,
+          1845,
+          2432,
+          10260,
+          7829,
+          799,
+          253,
+          58,
+          32
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": "Tangerang",
+      "yyyy": "2017",
+      "index": "Tangerang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09
+          249443,
+          237333,
+          119819,
+          121352,
+          297292,
+          346066,
+          233569,
+          228683,
+          380608,
+          294841,
+          2927,
+          4025,
+          12392,
+          15263,
+          39027,
+          32844,
+          2659,
+          1314,
+          232,
+          114
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": "Serang",
+      "yyyy": "2017",
+      "index": "Serang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          120.17,
-          112.76
+          158349,
+          153781,
+          64368,
+          62586,
+          252459,
+          263459,
+          129860,
+          122632,
+          112794,
+          82023,
+          2262,
+          2645,
+          3078,
+          3412,
+          10937,
+          9451,
+          599,
+          247,
+          37,
+          24
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": "Kota Tangerang",
+      "yyyy": "2017",
+      "index": "Kota Tangerang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+          133523,
+          126609,
+          77941,
+          76586,
+          79369,
+          112243,
+          112141,
+          125069,
+          345812,
+          293512,
+          2744,
+          4624,
+          16859,
+          22314,
+          60935,
+          53525,
+          4802,
+          2430,
+          273,
+          117
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": "Kota Cilegon",
+      "yyyy": "2017",
+      "index": "Kota Cilegon-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
+          35750,
+          34468,
+          22682,
+          22515,
+          31662,
+          38834,
+          31343,
+          32824,
+          69620,
+          53314,
+          1257,
+          2063,
+          3054,
+          3846,
+          10022,
+          9581,
+          979,
+          538,
+          51,
+          23
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015",
+      "type": "Tingkata Pendidikan",
+      "region": "Banten",
+      "name": "Kota Serang",
+      "yyyy": "2017",
+      "index": "Kota Serang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+          87197,
+          81584,
+          18529,
+          17628,
+          90848,
+          92481,
+          39513,
+          40846,
+          67391,
+          55184,
+          898,
+          1952,
+          3182,
+          4331,
+          14070,
+          12079,
+          1715,
+          765,
+          89,
+          38
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015",
+      "type": "Tingkat Pendidikan",
+      "region": "Banten",
+      "name": " Kota Tangerang Selatan",
+      "yyyy": "2017",
+      "index": "Kota Tangerang Selatan-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) BELUM/TIDAK SEKOLAH",
+        "(P) BELUM/TIDAK SEKOLAH",
+        "(L) BELUM TAMAT SD",
+        "(P) BELUM TAMAT SD",
+        "(L) SD",
+        "(P) SD",
+        "(L) SLTP",
+        "(P) SLTP",
+        "(L) SLTA",
+        "(P) SLTA",
+        "(L) DII",
+        "(P) DII",
+        "(L) DIII",
+        "(P) DIII",
+        "(L) S1",
+        "(P) S1",
+        "(L) S2",
+        "(P) S2",
+        "(L) S3",
+        "(L) S3"
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          5.59,
-          5.09
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          125.44,
-          118.41
+          103663,
+          97968,
+          60944,
+          60285,
+          61318,
+          82286,
+          71091,
+          76870,
+          226756,
+          204216,
+          2473,
+          3537,
+          18281,
+          23506,
+          73603,
+          64406,
+          7612,
+          4362,
+          756,
+          271
         ]
       }
     ]
