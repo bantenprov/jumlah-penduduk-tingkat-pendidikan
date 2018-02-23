@@ -1,172 +1,443 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BELUM/TIDAK SEKOLAH",
+      "yyyy": "2017",
+      "index": "(L) BELUM/TIDAK SEKOLAH 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.66,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":101699,"name":"PANDEGLANG"},
+{"value":123068,"name":"LEBAK"},
+{"value":249443,"name":"TANGERANG"},
+{"value":158349,"name":"SERANG"},
+{"value":133523,"name":"KOTA TANGERANG"},
+{"value":35750,"name":"KOTA CILEGON"},
+{"value":87197,"name":"KOTA SERANG"},
+{"value":103663,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BELUM/TIDAK SEKOLAH",
+      "yyyy": "2017",
+      "index": "(P) BELUM/TIDAK SEKOLAH 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.69,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":96752,"name":"PANDEGLANG"},
+{"value":117898,"name":"LEBAK"},
+{"value":237333,"name":"TANGERANG"},
+{"value":153781,"name":"SERANG"},
+{"value":126609,"name":"KOTA TANGERANG"},
+{"value":34468,"name":"KOTA CILEGON"},
+{"value":81584,"name":"KOTA SERANG"},
+{"value":97968,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BELUM TAMAT SD",
+      "yyyy": "2017",
+      "index": "(L) BELUM TAMAT SD 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":5.34,"name":"Angkatan Kerja"},
-          {"value":4.86,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":78958,"name":"PANDEGLANG"},
+{"value":57350,"name":"LEBAK"},
+{"value":119819,"name":"TANGERANG"},
+{"value":64368,"name":"SERANG"},
+{"value":77941,"name":"KOTA TANGERANG"},
+{"value":22682,"name":"KOTA CILEGON"},
+{"value":18529,"name":"KOTA SERANG"},
+{"value":60944,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BELUM TAMAT SD",
+      "yyyy": "2017",
+      "index": "(P) BELUM TAMAT SD 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":5.33,"name":"Angkatan Kerja"},
-          {"value":4.83,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":	78.169	,"name":"	PANDEGLANG	"},
+{"value":	55.776	,"name":"	LEBAK	"},
+{"value":	121.352	,"name":"	TANGERANG	"},
+{"value":	62.586	,"name":"	SERANG	"},
+{"value":	76.586	,"name":"	KOTA TANGERANG	"},
+{"value":	22.515	,"name":"	KOTA CILEGON	"},
+{"value":	17.628	,"name":"	KOTA SERANG	"},
+{"value":	60.285	,"name":"	KOTA TANGERANG SELATAN	"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) SD",
+      "yyyy": "2017",
+      "index": "(L) SD 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":5.59,"name":"Angkatan Kerja"},
-          {"value":5.09,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":235707,"name":"PANDEGLANG"},
+{"value":274377,"name":"LEBAK"},
+{"value":297292,"name":"TANGERANG"},
+{"value":252459,"name":"SERANG"},
+{"value":79369,"name":"KOTA TANGERANG"},
+{"value":31662,"name":"KOTA CILEGON"},
+{"value":90848,"name":"KOTA SERANG"},
+{"value":61318,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) SD",
+      "yyyy": "2017",
+      "index": "(P) SD 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":119.85,"name":"Angkatan Kerja"},
-          {"value":112.5,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":241393,"name":"PANDEGLANG"},
+{"value":285260,"name":"LEBAK"},
+{"value":346066,"name":"TANGERANG"},
+{"value":263459,"name":"SERANG"},
+{"value":112243,"name":"KOTA TANGERANG"},
+{"value":38834,"name":"KOTA CILEGON"},
+{"value":92481,"name":"KOTA SERANG"},
+{"value":82286,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) SLTP",
+      "yyyy": "2017",
+      "index": "(L) SLTP 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":120.17,"name":"Angkatan Kerja"},
-          {"value":112.76,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":91568,"name":"PANDEGLANG"},
+{"value":89211,"name":"LEBAK"},
+{"value":233569,"name":"TANGERANG"},
+{"value":129860,"name":"SERANG"},
+{"value":112141,"name":"KOTA TANGERANG"},
+{"value":31343,"name":"KOTA CILEGON"},
+{"value":39513,"name":"KOTA SERANG"},
+{"value":71091,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) SLTP",
+      "yyyy": "2017",
+      "index": "(P) SLTP 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":121.87,"name":"Angkatan Kerja"},
-          {"value":114.63,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":80633,"name":"PANDEGLANG"},
+{"value":73998,"name":"LEBAK"},
+{"value":228683,"name":"TANGERANG"},
+{"value":122632,"name":"SERANG"},
+{"value":125069,"name":"KOTA TANGERANG"},
+{"value":32824,"name":"KOTA CILEGON"},
+{"value":40846,"name":"KOTA SERANG"},
+{"value":76870,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) SLTA",
+      "yyyy": "2017",
+      "index": "(L) SLTA 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":122.38,"name":"Angkatan Kerja"},
-          {"value":114.82,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":81858,"name":"PANDEGLANG"},
+{"value":70934,"name":"LEBAK"},
+{"value":380608,"name":"TANGERANG"},
+{"value":112794,"name":"SERANG"},
+{"value":345812,"name":"KOTA TANGERANG"},
+{"value":69620,"name":"KOTA CILEGON"},
+{"value":67391,"name":"KOTA SERANG"},
+{"value":226756,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016"
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) SLTA",
+      "yyyy": "2017",
+      "index": "(P) SLTA 2017"
     },
     "series": [
       {
-        "data": [
-          {"value":125.44,"name":"Angkatan Kerja"},
-          {"value":118.41,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
+        "data": [{"value":58210,"name":"PANDEGLANG"},
+{"value":47595,"name":"LEBAK"},
+{"value":294841,"name":"TANGERANG"},
+{"value":82023,"name":"SERANG"},
+{"value":293512,"name":"KOTA TANGERANG"},
+{"value":53314,"name":"KOTA CILEGON"},
+{"value":55184,"name":"KOTA SERANG"},
+{"value":204216,"name":"KOTA TANGERANG SELATAN"}
+]
       }
     ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) DII",
+      "yyyy": "2017",
+      "index": "(L) DII 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":1640,"name":"PANDEGLANG"},
+{"value":1664,"name":"LEBAK"},
+{"value":2927,"name":"TANGERANG"},
+{"value":2262,"name":"SERANG"},
+{"value":2744,"name":"KOTA TANGERANG"},
+{"value":1257,"name":"KOTA CILEGON"},
+{"value":898,"name":"KOTA SERANG"},
+{"value":2473,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) DII",
+      "yyyy": "2017",
+      "index": "(P) DII 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":1922,"name":"PANDEGLANG"},
+{"value":1619,"name":"LEBAK"},
+{"value":4025,"name":"TANGERANG"},
+{"value":2645,"name":"SERANG"},
+{"value":4624,"name":"KOTA TANGERANG"},
+{"value":2063,"name":"KOTA CILEGON"},
+{"value":1952,"name":"KOTA SERANG"},
+{"value":3537,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) DIII",
+      "yyyy": "2017",
+      "index": "(L) DIII 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":2016,"name":"PANDEGLANG"},
+{"value":1845,"name":"LEBAK"},
+{"value":12392,"name":"TANGERANG"},
+{"value":3078,"name":"SERANG"},
+{"value":16859,"name":"KOTA TANGERANG"},
+{"value":3054,"name":"KOTA CILEGON"},
+{"value":3182,"name":"KOTA SERANG"},
+{"value":18281,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) DIII",
+      "yyyy": "2017",
+      "index": "(P) DIII 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":2426,"name":"PANDEGLANG"},
+{"value":2432,"name":"LEBAK"},
+{"value":15263,"name":"TANGERANG"},
+{"value":3412,"name":"SERANG"},
+{"value":22314,"name":"KOTA TANGERANG"},
+{"value":3846,"name":"KOTA CILEGON"},
+{"value":4331,"name":"KOTA SERANG"},
+{"value":23506,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) S1",
+      "yyyy": "2017",
+      "index": "(L) S1 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":11131,"name":"PANDEGLANG"},
+{"value":10260,"name":"LEBAK"},
+{"value":39027,"name":"TANGERANG"},
+{"value":10937,"name":"SERANG"},
+{"value":60935,"name":"KOTA TANGERANG"},
+{"value":10022,"name":"KOTA CILEGON"},
+{"value":14070,"name":"KOTA SERANG"},
+{"value":73603,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) S1",
+      "yyyy": "2017",
+      "index": "(P) S1 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":9727,"name":"PANDEGLANG"},
+{"value":7829,"name":"LEBAK"},
+{"value":32844,"name":"TANGERANG"},
+{"value":9451,"name":"SERANG"},
+{"value":53525,"name":"KOTA TANGERANG"},
+{"value":9581,"name":"KOTA CILEGON"},
+{"value":12079,"name":"KOTA SERANG"},
+{"value":64406,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) S2",
+      "yyyy": "2017",
+      "index": "(L) S2 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":893,"name":"PANDEGLANG"},
+{"value":799,"name":"LEBAK"},
+{"value":2659,"name":"TANGERANG"},
+{"value":599,"name":"SERANG"},
+{"value":4802,"name":"KOTA TANGERANG"},
+{"value":979,"name":"KOTA CILEGON"},
+{"value":1715,"name":"KOTA SERANG"},
+{"value":7612,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) S2",
+      "yyyy": "2017",
+      "index": "(P) S2 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":329,"name":"PANDEGLANG"},
+{"value":253,"name":"LEBAK"},
+{"value":1314,"name":"TANGERANG"},
+{"value":247,"name":"SERANG"},
+{"value":2430,"name":"KOTA TANGERANG"},
+{"value":538,"name":"KOTA CILEGON"},
+{"value":765,"name":"KOTA SERANG"},
+{"value":4362,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) S3",
+      "yyyy": "2017",
+      "index": "(L) S3 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":60,"name":"PANDEGLANG"},
+{"value":58,"name":"LEBAK"},
+{"value":232,"name":"TANGERANG"},
+{"value":37,"name":"SERANG"},
+{"value":273,"name":"KOTA TANGERANG"},
+{"value":51,"name":"KOTA CILEGON"},
+{"value":89,"name":"KOTA SERANG"},
+{"value":756,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Tingkat Pendidikan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) S3",
+      "yyyy": "2017",
+      "index": "(L) S3 2017"
+    },
+    "series": [
+      {
+        "data": [{"value":57,"name":"PANDEGLANG"},
+{"value":32,"name":"LEBAK"},
+{"value":114,"name":"TANGERANG"},
+{"value":24,"name":"SERANG"},
+{"value":117,"name":"KOTA TANGERANG"},
+{"value":23,"name":"KOTA CILEGON"},
+{"value":38,"name":"KOTA SERANG"},
+{"value":271,"name":"KOTA TANGERANG SELATAN"}
+]
+      }
+    ]
+  
   }
 ]
