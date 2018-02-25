@@ -171,13 +171,13 @@ children: [
 //== Jumlah Penduduk Berdasarkan Tingkat Pendidikan
 
 import JPTingkatPendidikan from './components/bantenprov/jumlah-penduduk-tingkat-pendidikan/JPTingkatPendidikan.chart.vue';
-Vue.component('echarts-jumlah-penduduk-tingkat-pendidikan-ktp', JPTingkatPendidikan);
+Vue.component('echarts-jumlah-penduduk-tingkat-pendidikan', JPTingkatPendidikan);
 
 import JPTingkatPendidikanKota from './components/bantenprov/jumlah-penduduk-tingkat-pendidikan/JPTingkatPendidikanKota.chart.vue';
 Vue.component('echarts-jumlah-penduduk-tingkat-pendidikan-kota', JPTingkatPendidikanKota);
 
 import JPTingkatPendidikanTahun from './components/bantenprov/jumlah-penduduk-tingkat-pendidikan/JPTingkatPendidikanTahun.chart.vue';
-Vue.component('echarts-jumlah-penduduk-tingkat-pendidikan-ktp-tahun', JPTingkatPendidikanTahun);
+Vue.component('echarts-jumlah-penduduk-tingkat-pendidikan-tahun', JPTingkatPendidikanTahun);
 
 //== mini bar charts
 
