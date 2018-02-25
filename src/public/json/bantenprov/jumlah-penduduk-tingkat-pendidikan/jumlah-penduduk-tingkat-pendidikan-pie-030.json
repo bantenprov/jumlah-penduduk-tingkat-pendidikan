@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "opd": "Persentase penyerapan anggaran per OPD",
+      "opd": "Jumlah Penduduk Tingkat Pendidikan",
       "type": "opd",
       "region": "Provinsi",
       "name": "Banten"
@@ -20,7 +20,7 @@
   },
   {
     "xAxis": {
-      "opd": "Persentase penyerapan anggaran per OPD",
+      "opd": "Jumlah Penduduk Tingkat Pendidikan",
       "type": "opd",
       "region": "Negara",
       "name": "Indonesia"
